@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Crislaine
 
-<!--
-**crislaine-dev/crislaine-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Desenvolvedora Júnior | Técnica em Desenvolvimento de Sistemas  
+📍 São José do Rio Preto – SP  
 
-Here are some ideas to get you started:
+Sou Desenvolvedora Júnior com foco em desenvolvimento web e sistemas, com base em lógica de programação, banco de dados e projetos acadêmicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias
+- Java
+- JavaScript
+- C#
+- PhP
+- MySQL
+- HTML | CSS
+
+## 📌 O que estou buscando
+- Oportunidade como Desenvolvedora Júnior
+- Estágio em Desenvolvimento de Sistemas
+
+## 🌍 Diferenciais
+- LIBRAS fluente  
+- Inglês  Básico
+- Inglês  Tecnico
+- Facilidade de aprendizado  
+- Organização e trabalho em equipe
+
+📫 Contato:  
+- LinkedIn: https://github.com/crislaine-dev 
